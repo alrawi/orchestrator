@@ -1,0 +1,29 @@
+Yara
+    yara sigs
+    xor possiblities
+    extract list of PE header
+    xor with 8 byte key
+    xor with 16 byte key
+    xor with 8 byte key omit zero
+    xor with 16 byte key omit zero
+
+https://bitbucket.org/decalage/balbuzard/wiki/Home
+
+PE parser, viper
+ELF parser
+MachO parser
+Archiving libarchive, dict to guess passwords
+PEiD 
+unpackers
+    -UPX
+    .NET
+    VB
+
+
+HTML/JS analyzer
+PDF analyzer
+Doc analyzer
+Flash/SWF analyzer
+Java analyzer
+    java idx
+
